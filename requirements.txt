@@ -1,6 +1,3 @@
---upgrade pip setuptools wheel
---disable-pip-version-check
-
 absl-py>=1.0.0
 setuptools>=65.5.0
 wheel>=0.38.4
